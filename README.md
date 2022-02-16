@@ -1,2 +1,2 @@
 # KATAS
-Katas resuelta Launch X
+Katas resueltas Launch X
